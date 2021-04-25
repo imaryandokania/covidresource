@@ -7,7 +7,8 @@
                "Description":"Has Oxygen  Beds! People with 85 SpO2 and above will be admitted.",
                "Location-contact":"+91 124-4767676",
                "Tocontact":"Gaurav Garg 8800890009"
-            }
+            },
+
             {
                "Location":"Manthan Neuro Psychiatry Centre,Gurgaon",
                "Description":"ICU beds available",
@@ -17,7 +18,7 @@
 
          ],
          "plasma":[
-            
+
          ]
       }
    ]
