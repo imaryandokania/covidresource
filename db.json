@@ -22,7 +22,6 @@
                "Location-contact":"",
                "Tocontact":"9310586617 "
             }
-
             ,
             {
                "Location":"Maharaja Agrasain Hospital, Punjabi Bagh",
@@ -30,6 +29,21 @@
                "Location-contact":"",
                "Tocontact":"9310586617 "
             }
+            ,
+            {
+               "Location":"SN Hospital Model Town, Panipat (2 hours from Delhi)",
+               "Description":"Oxygen Bed",
+               "Location-contact":"",
+               "Tocontact":"+91 8045793358"
+            }
+            ,
+            {
+               "Location":"Ravindra Hospital,Jhunjhunun (3.5 hours drive from Delhi)",
+               "Description":"Oxygen Beds and Ventilators",
+               "Location-contact":"",
+               "Tocontact":"+91 9414083108 "
+            }
+
          ],
          "plasma":[
 
