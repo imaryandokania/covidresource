@@ -15,7 +15,20 @@
                "Location-contact":"+91 93542 48565",
                "Tocontact":""
             }
-
+            ,
+            {
+               "Location":"BLK Hospital, Pusa Road",
+               "Description":"Beds Available",
+               "Location-contact":"",
+               "Tocontact":"9310586617 "
+            }
+            ,
+            {
+               "Location":"Maharaja Agrasain Hospital, Punjabi Bagh",
+               "Description":"Beds Available",
+               "Location-contact":"",
+               "Tocontact":"9310586617 "
+            }
          ],
          "plasma":[
 
