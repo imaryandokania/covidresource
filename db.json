@@ -86,14 +86,13 @@
           "Verified at": " 26 April at 10:33 PM ",
           "Location-contact": "",
           "Tocontact": " 01127781045, 01127781046, 01127781047, 01127787008, 01127781044."
-        }
-        ,
+        },
         {
-            "Location":"IBS Hospital, Lajpat Nagar",
-            "Description":"ICU Beds Available",
-            "Verified at":" 26 April at 10:45 PM ",
-            "Location-contact":"",
-            "Tocontact":"01143210000"
+          "Location": "IBS Hospital, Lajpat Nagar",
+          "Description": "ICU Beds Available",
+          "Verified at": " 26 April at 10:45 PM ",
+          "Location-contact": "",
+          "Tocontact": "01143210000"
         }
       ],
       "plasma": [
@@ -134,6 +133,10 @@
         {
           "Contact": "9310155904",
           "Verified at": "26th April 10:46 PM"
+        },
+        {
+          "Contact": "+916009200029",
+          "Verified at": "26th April 10:16 PM"
         }
       ]
     }
