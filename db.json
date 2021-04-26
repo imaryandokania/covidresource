@@ -45,12 +45,29 @@
                "Tocontact":"+91 9414083108 "
             }
             ,
-            
+
             {
                "Location":"Kukreja Hospital,Delhi",
                "Description":"Beds",
                "Location-contact":"",
                "Tocontact":"+91 7982046610 "
+            }
+            ,
+            {
+               "Location":"Satyawati Harishchand Hospital,Narela, Delhi-110040",
+               "Description":"25 Beds Available",
+               "Verified at":" 26 April at 6.15 PM ".
+               "Location-contact":"01127787008 ",
+               "Tocontact":""
+            }
+            ,
+
+            {
+               "Location":"IBS Hospital, Lajpat Nagar",
+               "Description":"ICU Beds Available",
+               "Verified at":" 26 April at 6:57 PM ".
+               "Location-contact":"01143210000",
+               "Tocontact":""
             }
 
          ],
