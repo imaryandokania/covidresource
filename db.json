@@ -69,7 +69,22 @@
                "Location-contact":"01143210000",
                "Tocontact":""
             }
-
+            ,
+            {
+               "Location":"Hotel Taj Vivanta, sector 21, Dwarka, Delhi",
+               "Description":"45 oxygen beds available",
+               "Verified at":" 26 April at 9:52 PM ",
+               "Location-contact":"",
+               "Tocontact":"Ph : 8178894808 (Deepak Jaiswal)"
+            }
+            ,
+            {
+               "Location":"ITC Welcomhotel Dwarka, a Covid Centre extension of Manipal Hospital",
+               "Description":"45 oxygen beds available",
+               "Verified at":" 26 April at 9:52 PM ",
+               "Location-contact":"",
+               "Tocontact":"Sukriti Singh +91 9953431797"
+            }
          ],
          "plasma":[
             {
@@ -99,6 +114,12 @@
              "Verified at":"26th April at 9:48 PM "
            }
 
+         ]
+         ,
+         "Remdesivir & Tocilizumab":[
+           {
+
+           }
          ]
       }
    ]
