@@ -83,6 +83,22 @@
               "Verified at":""
             }
 
+         ],
+         "Oxygeninfo":[
+           {
+              "Location": "RK Puram Sec 8 ,New Delhi",
+              "Service available": "Oxygen Refilling Available",
+              "Contact":"Balraj ji +91 9312844406",
+              "Verified at":"26th April at 8:14 PM "
+
+           },
+           {
+             "Location": "New Delhi, NCR",
+             "Service available": "Portable Oxygen with vaporizer",
+             "Contact":"+91 9582006738",
+             "Verified at":"26th April at 9:48 PM "
+           }
+
          ]
       }
    ]
