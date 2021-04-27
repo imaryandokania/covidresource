@@ -93,10 +93,8 @@
           "Verified at": " 26 April at 10:45 PM ",
           "Location-contact": "",
           "Tocontact": "01143210000"
-        }
-        ,
+        },
         {
-
           "Location": "Sardar Patel COVID Centre, #Delhi",
           "Description": "Oxygen Beds Available",
           "Verified at": " 26 April at 10:55 PM ",
@@ -154,6 +152,14 @@
         {
           "Contact": "+919819857718",
           "Verified at": "26th April 10:53 PM"
+        },
+        {
+          "Contact": "011-28043949",
+          "Verified at": "7:28 PM  Apr 27"
+        },
+        {
+          "Contact": "9416015152",
+          "Verified at": "7:30 PM  Apr 27"
         }
       ]
     }
