@@ -3,105 +3,18 @@
     {
       "beds": [
         {
-          "Location": "Lotus hospital,Gurgaon ",
-          "Description": "Has Oxygen  Beds! People with 85 SpO2 and above will be admitted.",
-          "Location-contact": "+91 124-4767676",
-          "Tocontact": "Gaurav Garg 8800890009"
-        },
-
-        {
-          "Location": "Manthan Neuro Psychiatry Centre,Gurgaon",
-          "Description": "ICU beds available",
-          "Location-contact": "+91 93542 48565",
+          "Location": "Delhi",
+          "Description": "ICU & Oxygen Bed Available",
+          "Location-contact": "+91 9319726653",
+          "Verified at":"4 May at 1:21 AM",
           "Tocontact": ""
         },
         {
-          "Location": "BLK Hospital, Pusa Road",
-          "Description": "Beds Available",
-          "Location-contact": "",
-          "Tocontact": "9310586617 "
-        },
-        {
-          "Location": "Maharaja Agrasain Hospital, Punjabi Bagh",
-          "Description": "Beds Available",
-          "Location-contact": "",
-          "Tocontact": "9310586617 "
-        },
-        {
-          "Location": "SN Hospital Model Town, Panipat (2 hours from Delhi)",
-          "Description": "Oxygen Bed",
-          "Location-contact": "",
-          "Tocontact": "+91 8045793358"
-        },
-        {
-          "Location": "Ravindra Hospital,Jhunjhunun (3.5 hours drive from Delhi)",
-          "Description": "Oxygen Beds and Ventilators",
-          "Location-contact": "",
-          "Tocontact": "+91 9414083108 "
-        },
-        {
-          "Location": "Kukreja Hospital,Delhi",
-          "Description": "Beds",
-          "Location-contact": "",
-          "Tocontact": "+91 7982046610 "
-        },
-        {
-          "Location": "Satyawati Harishchand Hospital,Narela, Delhi-110040",
-          "Description": "25 Beds Available",
-          "Verified at": " 26 April at 6.15 PM ",
-          "Location-contact": "01127787008 ",
+          "Location": "Delhi",
+          "Description": "ICU & Oxygen Bed Available",
+          "Location-contact": "+91 9319726653",
+          "Verified at":"4 May at 1:21 AM",
           "Tocontact": ""
-        },
-        {
-          "Location": "IBS Hospital, Lajpat Nagar",
-          "Description": "ICU Beds Available",
-          "Verified at": " 26 April at 6:57 PM ",
-          "Location-contact": "01143210000",
-          "Tocontact": ""
-        },
-        {
-          "Location": "Hotel Taj Vivanta, sector 21, Dwarka, Delhi",
-          "Description": "45 oxygen beds available",
-          "Verified at": " 26 April at 9:52 PM ",
-          "Location-contact": "",
-          "Tocontact": "Ph : 8178894808 (Deepak Jaiswal)"
-        },
-        {
-          "Location": "ITC Welcomhotel Dwarka, a Covid Centre extension of Manipal Hospital",
-          "Description": "45 oxygen beds available",
-          "Verified at": " 26 April at 9:52 PM ",
-          "Location-contact": "",
-          "Tocontact": "Sukriti Singh +91 9953431797"
-        },
-        {
-          "Location": " Sheelawanti Hospital, Panipat 2.5 hours from Delhi",
-          "Description": "5-6 beds  available",
-          "Verified at": " 26 April at 10:26 PM ",
-          "Location-contact": "",
-          "Tocontact": " +91 9813051091"
-        },
-        {
-          "Location": "Satyawati Harishchand Hospital, Narela, Delhi",
-          "Description": "Oxygen beds are available",
-          "Verified at": " 26 April at 10:33 PM ",
-          "Location-contact": "",
-          "Tocontact": " 01127781045, 01127781046, 01127781047, 01127787008, 01127781044."
-        },
-        {
-          "Location": "IBS Hospital, Lajpat Nagar",
-          "Description": "ICU Beds Available",
-          "Verified at": " 26 April at 10:45 PM ",
-          "Location-contact": "",
-          "Tocontact": "01143210000"
-        }
-        ,
-        {
-
-          "Location": "Sardar Patel COVID Centre, #Delhi",
-          "Description": "Oxygen Beds Available",
-          "Verified at": " 26 April at 10:55 PM ",
-          "Location-contact": "",
-          "Tocontact": "011-26655959; 011-26655969"
         }
       ],
       "plasma": [
@@ -118,42 +31,18 @@
       ],
       "Oxygeninfo": [
         {
-          "Location": "RK Puram Sec 8 ,New Delhi",
-          "Service available": "Oxygen Refilling Available",
-          "Contact": "Balraj ji +91 9312844406",
-          "Verified at": "26th April at 8:14 PM "
-        },
-        {
-          "Location": "New Delhi, NCR",
-          "Service available": "Portable Oxygen with vaporizer",
-          "Contact": "+91 9582006738",
-          "Verified at": "26th April at 9:48 PM "
+          "Location": "Noida ,Delhi ",
+          "Service available": "Oxygen Cylinder",
+          "Contact": "+91 9808822111",
+          "Verified at": "4 May at 1:21 AM"
         }
+
       ],
       "Remdesivir & Tocilizumab": [
         {
-          "Contact": "96255 13290",
-          "Verified at": "26th April 10:06 PM"
-        },
-        {
-          "Contact": "8800300119",
-          "Verified at": "26th April 10:46 PM"
-        },
-        {
-          "Contact": "9310155904",
-          "Verified at": "26th April 10:46 PM"
-        },
-        {
-          "Contact": "+916009200029",
-          "Verified at": "26th April 10:16 PM"
-        },
-        {
-          "Contact": "+917838348237",
-          "Verified at": "26th April 10:53 PM"
-        },
-        {
-          "Contact": "+919819857718",
-          "Verified at": "26th April 10:53 PM"
+          "Location":"105, Galleria Market, DLF Phase IV, Sector 28",
+          "Contact": "+91 8826936936",
+          "Verified at": "3 May 8:30 PM"
         }
       ]
     }
