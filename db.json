@@ -2,6 +2,29 @@
   "posts": [
     {
       "beds": [
+
+        {
+          "Location": "Noida",
+          "Description": "ICU Bed Available",
+          "Location-contact": "+917390900370",
+          "Verified at":"5 May at 3:30 PM",
+          "Tocontact": ""
+        },
+        {
+          "Location": " NKS Hospital, Gulabi Bagh, Delhi",
+          "Description": "ICU Bed Available",
+          "Location-contact": "+918130894500 ",
+          "Verified at":"5 May at 12:30 AM",
+          "Tocontact": " Ajay +919555413550"
+        }
+        ,
+        {
+          "Location": " Deen Dayal Upadhyay hospital",
+          "Description": "ICU Bed Available",
+          "Location-contact": "+9101125401075",
+          "Verified at":"4 May at 5:41 PM",
+          "Tocontact": "+91011254010"
+        },
         {
           "Location": "Delhi",
           "Description": "ICU & Oxygen Bed Available",
@@ -9,7 +32,8 @@
           "Verified at":"4 May at 1:21 AM",
           "Tocontact": ""
         }
-      ],
+
+  ],
       "plasma": [
         {
           "BloodGroupAvailable": "B+, O- and O+",
