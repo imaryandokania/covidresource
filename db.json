@@ -62,84 +62,97 @@
           "Verified at": "3 May 8:30 PM"
         }
       ],
-      "bedstatus": [
-        {
-            "Hospital": "Armed Police Force Hospital,Balambu",
-            "Isolation": "178",
-            "ICU": "12",
-            "Ventilator": "8"
-        },
-        {
-            "Hospital": "Shree Birendra Hospital, Chhauni",
-            "Isolation": "216",
-            "ICU": "22",
-            "Ventilator": "0"
-        },
-        {
-            "Hospital": "Bir Hospital, Maha Baudha",
-            "Isolation": "154",
-            "ICU": "6",
-            "Ventilator": "0"
-        },
-        {
-            "Hospital": "Nepal Police Hospital, Kathmandu",
-            "Isolation": "279",
-            "ICU": "19",
-            "Ventilator": "14"
-        },
-        {
-            "Hospital": "Shukraraj Tropical & Infectious Disease Hospital, Teku",
-            "Isolation": "87",
-            "ICU": "9",
-            "Ventilator": "15"
-        },
-        {
-            "Hospital": "TUTH Hospital, Maharajgunj",
-            "Isolation": "284",
-            "ICU": "35",
-            "Ventilator": "9"
-        },
-        {
-            "Hospital": "Patan Hospital, Lalitpur",
-            "Isolation": "117",
-            "ICU": "10",
-            "Ventilator": "12"
-        },
-        {
-            "Hospital": "Civil Service Hospital, Kathmandu",
-            "Isolation": "71",
-            "ICU": "14",
-            "Ventilator": "1"
-        },
-        {
-            "Hospital": "Bhaktapur Hospital, Bhaktapur",
-            "Isolation": "65",
-            "ICU": "5",
-            "Ventilator": "1"
-        },
-        {
-            "Hospital": "National Ayurveda Research & Training Center, Kritipur",
-            "Isolation": "144"
-        },
-        {
-            "Hospital": "Grande Int'l Hospital, Kathmandu",
-            "Isolation": "67",
-            "ICU": "11",
-            "Ventilator": "7"
-        },
-        {
-            "Hospital": "HAMS Hospital, Kathmandu",
-            "Isolation": "80",
-            "ICU": "20",
-            "Ventilator": "12"
-        },
-        {
-            "Hospital": "Nepal Mediciti Hospital, Bhaisepati",
-            "Isolation": "101",
-            "ICU": "42",
-            "Ventilator": "13"
-        }
-    ]
-    }
-  ]
+   "bedstatus":[
+     {
+       "Hospital":"Armed Police Force Hospital,Balambu",
+       "Isolation":"190",
+       "I.C.U":"12",
+       "Ventilator":"8"
+     },
+     {
+       "Hospital":"Shree Birendra Hospital, Chhauni",
+       "Isolation":"165",
+       "I.C.U":"22",
+       "Ventilator":"0"
+     },
+     {
+
+       "Hospital":"Bir Hospital, Maha Baudha",
+       "Isolation":"130",
+       "I.C.U":"5",
+       "Ventilator":"2"
+     },
+     {
+       "Hospital":"Nepal Police Hospital, Kathmandu",
+       "Isolation":"217",
+       "I.C.U":"3",
+       "Ventilator":"0"
+     },
+     {
+       "Hospital":"Shukraraj Tropical & Infectious Disease Hospital, Teku",
+       "Isolation":"85",
+       "I.C.U":"9",
+       "Ventilator":"15"
+     },
+     {
+       "Hospital":"TUTH Hospital, Maharajgunj",
+       "Isolation":"282",
+       "I.C.U":"21",
+       "Ventilator":"15"
+     },
+     {
+
+       "Hospital":"Patan Hospital, Lalitpur",
+       "Isolation":"167",
+       "I.C.U":"13",
+       "Ventilator":"14"
+     },
+     {
+       "Hospital":"Civil Service Hospital, Kathmandu",
+       "Isolation":"71",
+       "I.C.U":"14",
+       "Ventilator":"1"
+     },
+     {
+       "Hospital":"Bhaktapur Hospital, Bhaktapur",
+       "Isolation":"73",
+       "I.C.U":"4",
+       "Ventilator":"1"
+     },
+     {
+       "Hospital":"National Ayurveda Research & Training Center, Kritipur",
+       "Isolation":"132",
+       "I.C.U":"0",
+       "Ventilator":"0"
+     },
+     {
+
+       "Hospital":"Grande Int'l Hospital, Kathmandu",
+       "Isolation":"62",
+       "I.C.U":"11",
+       "Ventilator":"6"
+     },
+     {
+       "Hospital":"HAMS Hospital, Kathmandu",
+       "Isolation":"76",
+       "I.C.U":"20",
+       "Ventilator":"9"
+     },
+     {
+       "Hospital":"Nepal Mediciti Hospital, Bhaisepati",
+       "Isolation":"124",
+       "I.C.U":"42",
+       "Ventilator":"16"
+     },
+     {
+       "Hospital":"Star Hospital, Sanepa",
+       "Isolation":"49",
+       "I.C.U":"7",
+       "Ventilator":"7"
+     }
+
+   ]
+ }
+]
+
 }
